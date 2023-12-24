@@ -42,6 +42,11 @@ Make sure to install the following dependencies:
     ```bash
     pip install scikit-learn
     ```
+    
+7. **Opencv-headless**
+    ```bash
+    pip install opencv-python-headless
+    ```
 
 ## Project Overview
 
